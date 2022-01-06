@@ -1,1 +1,0 @@
-document.write("<iframe data-aa='1888107' src='//ad.a-ads.com/1888107?size=300x250' style='width:300px; height:250px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>"); 
